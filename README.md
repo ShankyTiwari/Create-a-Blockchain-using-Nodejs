@@ -1,5 +1,5 @@
 # Create a Blockchain using Nodejs
-this project demonstrates how to create a basic Blockchain using Nodejs (Javascript).
+This project demonstrates how to create a basic Blockchain using Nodejs (Javascript).
 
 ## Installation 
 1. `Run install`
