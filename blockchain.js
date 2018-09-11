@@ -17,6 +17,7 @@ class Blockchain {
 		const block = {
 			index: this.chain.length + 1,
 			timestamp: (+new Date()).toString(),
+			data: Math.random(),
 			proof: proof,
 			previous_hash: previousHash
 		}

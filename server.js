@@ -43,6 +43,7 @@ class Server {
 				message: 'You mined a new Block.',
 				index: block.index,
 				timestamp: block.timestamp,
+				data: block.data,
 				proof: block.proof,
 				previous_hash: block.previous_hash
 			}
